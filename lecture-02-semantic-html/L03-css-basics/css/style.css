@@ -1,0 +1,82 @@
+body {
+  font-family: Arial;
+}
+
+/* Element selector */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Group selector */
+header, footer {
+  background-color: #f2f2f2;
+  padding: 1rem;
+}
+
+/* Descendant selector */
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Class selector */
+.card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+/* ID selector */
+#works {
+  margin-top: 2rem;
+}
+
+/* Pseudo-class */
+nav a:hover {
+  color: #0077cc;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+main {
+  padding: 1.5rem;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+header, footer {
+  background-color: #eaeaea;
+  padding: 1.5rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
