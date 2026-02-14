@@ -1,0 +1,31 @@
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>My Portfolio</h1>
+    <p>Welcome to my responsive portfolio page</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am a student learning web development and JavaScript basics.
+      </p>
+    </section>
+
+    <section>
+      <h2>Quick Actions</h2>
+
+      <!-- Feature A: Theme toggle -->
+      <button id="themeBtn">Toggle Theme</button>
+
+      <!-- Feature B: Click counter -->
+      <button id="countBtn">Click Me</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 My Portfolio</p>
+  </footer>

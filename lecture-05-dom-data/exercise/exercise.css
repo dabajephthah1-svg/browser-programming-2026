@@ -38,11 +38,3 @@ input {
   padding: 10px 12px;
   width: 160px;
 }
-
-
-
-btn.onclick = function () {
-  output.innerText = "Hello from JavaScript!";
-  output.style.color = "green";
-  output.style.fontWeight = "bold";
-};
