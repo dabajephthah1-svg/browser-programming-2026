@@ -9,11 +9,6 @@ This project showcases a complete front-end web development build using HTML, CS
 
 ---
 
-## 🌐 Live Demo
-*(Optional: add later when you host it with GitHub Pages)*  
-`https://your-username.github.io/hotel-njenka`
-
----
 
 ## 📌 Project Overview
 
